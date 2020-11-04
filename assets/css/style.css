@@ -143,6 +143,7 @@ section {
 } 
 
 .steps {
+    margin: 0 35px 0 35px;
     text-align: center;
     background: #fce138;
 }
